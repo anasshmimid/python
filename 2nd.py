@@ -1,3 +1,6 @@
+#calculator
+
+
 operator = input("donnee une operation + - * / : ")
 num1 = float(input("donnee num1 : " ))
 num2 = float(input("donnee num2 : " ))
